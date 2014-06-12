@@ -82,6 +82,8 @@ Interests
  * DIY
  * Educational Software
  * Public Speaking
+ * GNU
+ * CLI based development
 
 Meet me
 -------
@@ -93,4 +95,5 @@ I'm `crow1170` on [BitBucket], [GitHub], [Reddit], and most other places. I'm `C
   [Reddit]: https://pay.reddit.com/u/crow1170
   [cknowles117@gmail.com]: mailto:cknowles117@gmail.com
   [GitHub]: https://github.com/crow1170
+  [BitBucket]: https://bitbucket.com/crow1170
   [Twitter]: http://twitter.com/CKnowles
